@@ -1,4 +1,4 @@
-string customerKey = "PUT_YOUR_CUSTOMER_KEY_HERE";
+string customerKey = "bdafd9";
 string secretPhrase = "bdafd9"; //leave secret phrase empty, if not needed
 
 var options = new Dictionary();
